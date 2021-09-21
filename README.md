@@ -58,6 +58,6 @@ application.
 
 ![image](https://user-images.githubusercontent.com/55852035/134141097-9c5c3c47-0a91-4f7d-9df1-0b04ef1676a5.png)
 
-### 10. Terms and COnditions Page
+### 10. Terms and Conditions Page
 
 ![image](https://user-images.githubusercontent.com/55852035/134141110-3c63fdf8-41a2-450e-a725-f368c84323cf.png)
